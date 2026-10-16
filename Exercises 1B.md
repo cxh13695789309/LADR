@@ -296,8 +296,10 @@ $a^{-1}$，且
 > \end{aligned}
 > $$
 > The third equality follows from associativity of addition in $V$, since $f(x),g(x),h(x)\in V$. The other equalities follow from the definition of addition on $V^S$.
+> 
+> ---
 >
->**Scalar multiplication**
+>### 3.Scalar Multiplication
 > $$
 > \begin{aligned}
 > ((ab)f)(x)
